@@ -2,9 +2,9 @@
 Harga mobil bekas di Indonesia seringkali ditentukan dari beberapa faktor, seperti daerah asal, tahun pembelian, kelengkapan fitur, serta plat mobil (ganjil/genap). Proyek ini bertujuan untuk mengetahui variabel apa saja yang mempengarhui harga mobil sekaligus memprediksi harga mobil bekas berdasarkan variabel-variabel yang tersebut
 
 ## 📁Struktur Repo
-`Copy_of_Projek_Datsa_Branch.ipynb` : notebook untuk melakukan EDA serta pelatihan model
-`SVR.pkl` : model _machine learning_ yang telah dilatih 
-`requirement.txt` : dependensi yang digunakan pada projek ini
+* `Copy_of_Projek_Datsa_Branch.ipynb` : notebook untuk melakukan EDA serta pelatihan model
+* `SVR.pkl` : model _machine learning_ yang telah dilatih 
+* `requirement.txt` : dependensi yang digunakan pada projek ini
 
 # 📊Dataset
 Dataset yang digunakan pada projek ini berasal dari [kaggle - Used Car Listings in Indonesia](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia/data?select=used_car.csv)
